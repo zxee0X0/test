@@ -1,0 +1,5 @@
+{
+  "name": "LogiSRM - Logistics Supplier Management System",
+  "description": "A professional SRM platform for logistics departments to manage supplier quotes, featuring automatic multi-currency calculations for ocean freight, terminal charges, and inland logistics.",
+  "requestFramePermissions": []
+}
